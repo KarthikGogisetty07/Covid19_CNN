@@ -17,7 +17,7 @@
 ##### The code focuses on X-Ray scans of a covid and Non Covid patients. The algorithm had an accuracy of 91%
 ##### in train stage and 96% for test set, Clearly the data set used isn't enough. As per observation it yet times 
 ##### reaches 100% accuracy - "Overfiting the data"
-![2](https://user-images.githubusercontent.com/69350191/127884510-3fe1509c-6d4f-4dae-8c74-929de5ddce0d.PNG)
+![rsz_2](https://user-images.githubusercontent.com/69350191/127885040-4ca265f4-9f94-438e-99af-e016dcc51cdf.png)
 ##### As we can observe the loss vs iteration isn't ideal case but acceptable for demonstration considering 
 ##### epochs is 10 - 15 range.
 

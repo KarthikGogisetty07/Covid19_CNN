@@ -7,7 +7,7 @@
 
 ### Why CNN?
 
-##### Resolves the problem of not identifying a image/patern at any any location of the pic i.e It learns 
+##### Resolves the problem of not identifying a image/patern at any location of the pic i.e It learns 
 ##### about the patterns that exist and then predict when we load the image to a model. Using Convolutions
 ##### is like scanning over the image with a magnifying glass/Filters.
 ![1](https://user-images.githubusercontent.com/69350191/127884137-ac792b4f-6568-4a1d-833c-a0e0564c0c9e.PNG)
